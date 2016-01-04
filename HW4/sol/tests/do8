@@ -1,0 +1,9 @@
+mtnew 10
+mtnew 5 -a 256
+mtnew 5 -a 512
+mtdel -i 3
+mtdel -r 2 -a
+mtp
+mtr 120
+mtp
+q -f

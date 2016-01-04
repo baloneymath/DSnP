@@ -1,0 +1,2 @@
+make clean; make clean; make; cd lib; cp libcmd.a libcmd-$1.a; cd ../ref; cp ../bin/memTest memTest-$1; cd ..
+make clean; make clean; make debug; cd ref; cp ../bin/memTest.debug memTest-$1.debug; cd ..

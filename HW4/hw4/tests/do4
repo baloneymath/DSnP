@@ -1,0 +1,29 @@
+mtr 0
+mtr 39
+mtr 40
+mtn 1
+mtn 1 -a 1
+mtn 1 -a 0
+mtp
+MTD
+mtd -a
+mtd -r 4
+help mtn
+mtn 5
+mtr 500
+mtn 5
+mtd -a -Ran 3
+mtd -r -3
+mtd -r 3
+mtp
+mtn 123
+mtp
+mtd -r -r 23
+mtd -r 23 -r
+mtd -r 23
+mtp
+mtd -r 23 -i 5 -a
+mtn 123 -a 999
+mtn 123 -a 0
+mtn 123 -a 10
+

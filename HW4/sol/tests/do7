@@ -1,0 +1,288 @@
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+mtr 256000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+mtd -r 500000
+mtn 1000000
+usage
+
+q -f

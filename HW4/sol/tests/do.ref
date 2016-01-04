@@ -1,0 +1,10 @@
+mtn 1
+mtn 6 -a 614
+mtn 6 -a 613
+mtn 1 -a 512
+mtn 1 -a 1024
+mtn 8
+mtd -i 13 -a
+mtd -i 12 -a
+mtd -i 3
+mtp

@@ -1,0 +1,15 @@
+mtnew 10
+mtnew 5 -a 254
+mtnew 5 -a 510
+mtnew 5 -a 1022
+mtdel -i 3
+mtp
+mtdel -i 13 -a
+mtp
+mtdel -i 8 -a
+mtp
+mtdel -i 4 -a
+mtp
+mtr 120
+mtp
+q -f
